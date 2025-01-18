@@ -19,3 +19,5 @@ This application is a utility for searching and managing hidden files in a user-
 
 5. **Automatic State Reset**  
    When the selected directory changes, the application's state is reset: the list of hidden files is cleared, and any file move operations are revoked.
+
+   .
